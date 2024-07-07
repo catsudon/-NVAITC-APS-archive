@@ -37,4 +37,4 @@ start the application
 
 # 4. Extra Scripts
 
-we also archived the code used for training, finetuning, inferecing and the models for this project [here](https://github.com/catsudon/tensorflow-LSTM-SER) 
+we also archived the code used for training, finetuning, inferecing and the speech emotion recognition models for this project [here](https://github.com/catsudon/tensorflow-LSTM-SER) 
